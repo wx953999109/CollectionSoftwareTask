@@ -75,7 +75,7 @@
             // 
             // tbTaskDetail
             // 
-            this.tbTaskDetail.Dock = System.Windows.Forms.DockStyle.Top;
+            this.tbTaskDetail.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tbTaskDetail.Location = new System.Drawing.Point(0, 42);
             this.tbTaskDetail.Multiline = true;
             this.tbTaskDetail.Name = "tbTaskDetail";
